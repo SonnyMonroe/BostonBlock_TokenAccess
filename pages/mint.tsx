@@ -19,6 +19,7 @@ const Mint = () => {
             justifyContent: "center",
             alignItems: "center",
             height: "100vh",
+            rowGap: "1vw",
         }}>
             <h1>Mint</h1>
             <ConnectWallet />
