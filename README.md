@@ -61,7 +61,7 @@ To gain access to Boston Block Membership, follow these steps:
 
 We welcome feedback and contributions from the community to improve Boston Block Membership. If you have any suggestions, ideas, or encounter any issues, please feel free to reach out to us.
 
-Happy coding!
+Happy coding!!
 
 ```
 
