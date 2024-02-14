@@ -5,6 +5,8 @@ import { getUser } from "./api/auth/[...thirdweb]";
 import checkBalance from "../utils/checkBalance";
 import { useRouter } from "next/router";
 import { use, useEffect } from "react";
+import { Header } from "../components/Header";
+
 
 const Home: NextPage = () => {
   const { isLoggedIn, isLoading } = useUser();
@@ -19,6 +21,9 @@ const Home: NextPage = () => {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
+        <h2 className={styles.heading}>NFT Gated Content </h2>
+        <Header />
+
         <h1>You Have Access</h1>
         <ConnectWallet />
       </div>

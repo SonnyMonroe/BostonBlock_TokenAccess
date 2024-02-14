@@ -4,6 +4,10 @@ Welcome to Boston Block Membership, the NFT gated website exclusively designed f
 
 ## Overview
 
+[![Project Video Preview](https://img.youtube.com/vi/Whj4V79T9Tk/0.jpg)](https://youtu.be/Whj4V79T9Tk)
+
+**You can view a live demo** :point_right: [here](https://youtu.be/Whj4V79T9Tk).
+
 Boston Block Membership is a unique platform tailored for Web3 developers in the Boston, MA area. Subscribers of The Boston Block newsletter gain access to an exclusive dApp/website by minting the provided NFT. Leveraging the power of Thirdweb, along with smart contracts deployed on the Mumbai Testnet using ERC1155 standards, this platform ensures secure and seamless access for its community members.
 
 ## Key Features
